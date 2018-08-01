@@ -1,0 +1,13 @@
+{
+    "name": "lukeme/smtp",
+    "description": "smtp php class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lukeme",
+            "email": "luke-me@qq.com"
+        }
+    ],
+    "require": {}
+}
